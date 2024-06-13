@@ -1,5 +1,5 @@
 # swissmicros
-SwissMicros calculator programs &amp; memory dumps
+SwissMicros calculator programs &amp; memory dumps.
 
 This repository is a personal stash of helpful programs & memory dumps
 I've made from my various SwissMicros calculators.
