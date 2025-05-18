@@ -1,0 +1,13 @@
+Computes note frequency given:
+- Z: root frequency
+- Y: Number of steps in the octave
+- X: Note number in octave
+
+01◆LBL "NTOF"
+ 02 X<>Y
+ 03 /
+ 04 2
+ 05 X<>Y
+ 06 Y^X
+ 07 *
+ 08 RTN
